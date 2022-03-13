@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.slot {
+    font-size: 50px;
+}
+
+.space {
+    background: url('bg.gif');
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    .ship {
+        transition: all 0.3s;
+        width: 7rem;
+        position: absolute;
+        &.left {
+            transform: rotate(-90deg);
+        }
+        &.top {
+            transform: rotate(0);
+        }
+        &.right {
+            transform: rotate(90deg);
+        }
+        &.bottom {
+            transform: rotate(180deg);
+        }
+    }
+    .laser {
+        position: absolute;
+        transform: rotate(-90deg) translate(-50%, 75%);
+        width: 3rem;
+    }
+}

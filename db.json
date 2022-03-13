@@ -1,0 +1,22 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Шан-Чи",
+            "img": "https://avatars.mds.yandex.net/get-bunker/128809/f7e8bc8f72cbd418e356445fa88e86f97ad2721f/800x124",
+            "desc": "Гонконгский боевик плюс драма: блокбастер про нового супергероя Marvel теперь в подписке на Кинопоиске",
+            "cast": "Симу Лю, Тони Люн Чу Вай, Аквафина",
+            "director": "Дестин Дэниел Креттон",
+            "video": "https://www.youtube.com/embed/fYEXdCCpfVQ?list=RDfYEXdCCpfVQ"
+        },
+        {
+            "id": 2,
+            "title": "Шан-Чи",
+            "img": "https://avatars.mds.yandex.net/get-bunker/128809/f7e8bc8f72cbd418e356445fa88e86f97ad2721f/800x124",
+            "desc": "Гонконгский боевик плюс драма: блокбастер про нового супергероя Marvel теперь в подписке на Кинопоиске",
+            "cast": "Симу Лю, Тони Люн Чу Вай, Аквафина",
+            "director": "Дестин Дэниел Креттон",
+            "video": "https://widgets.kinopoisk.ru/discovery/trailer/180241?noAd=1&embedId=a8b127c9-15aa-4c96-a439-51c56578a126&hidden=*&muted=1&loop=1&autoplay=1&from=&extraTrailers=&onlyPlayer=1"
+        }
+    ]
+}
