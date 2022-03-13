@@ -1,5 +1,5 @@
 <template>
     <div class="space">
-        <img class="ship" src="../assets/ship.png" alt="">
+        <img class="ship" src="@/assets/ship.png" alt="">
     </div>
 </template>
